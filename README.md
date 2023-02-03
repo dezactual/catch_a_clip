@@ -10,8 +10,20 @@
 <li>If you need a longer clip just go back to the csv and delete the status and link id value and change the times adn clip again</li>
 </ol>
 
+<h2>Setup</h2>
+<ol>
+<li>Click the config button</li>
+<li>Paste absolute paths to you csv file and the directory you want the clips to be saved into</li>
+<li>If anything gets corrupted there will be a ./data folder containing the config options</li>
+</ol>
+
 <h3>Experimental</h3>
 <p>If you click the experimental option from the drop down on the top left you will see an option to stack.  Currently it will only work for my video because its using my resolution and webcam placement.  Working on making this usable.</p>
 <p>This will be useful for people who use editors that dont support templates like resolve does.  It will crop your webcam, resize and stack it on top of your gameplay.</p>
 <p>I use this in FCPX with a custom compressor output so that there is no need to duplicate on the timeline and crop webcam manually.</p>
-
+<br>
+<h2>WIP</h2>
+<ol>
+<li>Check clip/stack threads for completion before allowing another click</li>
+<li>Edit the clip length within an explorer</li>
+</ol>
