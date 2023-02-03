@@ -22,7 +22,6 @@
 <p>If you click the experimental option from the drop down on the top left you will see an option to stack.  Currently it will only work for my video because its using my resolution and webcam placement.  Working on making this usable.</p>
 <p>This will be useful for people who use editors that dont support templates like resolve does.  It will crop your webcam, resize and stack it on top of your gameplay.</p>
 <p>I use this in FCPX with a custom compressor output so that there is no need to duplicate on the timeline and crop webcam manually.</p>
-<br>
 
 <h2>WIP</h2>
 <ol>
